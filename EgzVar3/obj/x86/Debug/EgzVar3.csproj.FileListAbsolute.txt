@@ -1,0 +1,8 @@
+/Users/ilya/Developer/HSE/EgzVar3/EgzVar3/obj/x86/Debug/EgzVar3.csprojResolveAssemblyReference.cache
+/Users/ilya/Developer/HSE/EgzVar3/EgzVar3/obj/x86/Debug/EgzVar3.csproj.CoreCompileInputs.cache
+/Users/ilya/Developer/HSE/EgzVar3/EgzVar3/bin/Debug/EgzVar3.exe
+/Users/ilya/Developer/HSE/EgzVar3/EgzVar3/bin/Debug/EgzVar3.pdb
+/Users/ilya/Developer/HSE/EgzVar3/EgzVar3/bin/Debug/Cars.dll
+/Users/ilya/Developer/HSE/EgzVar3/EgzVar3/bin/Debug/Cars.pdb
+/Users/ilya/Developer/HSE/EgzVar3/EgzVar3/obj/x86/Debug/EgzVar3.exe
+/Users/ilya/Developer/HSE/EgzVar3/EgzVar3/obj/x86/Debug/EgzVar3.pdb

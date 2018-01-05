@@ -1,0 +1,5 @@
+/Users/ilya/Developer/HSE/EgzVar3/Cars/bin/Debug/Cars.dll
+/Users/ilya/Developer/HSE/EgzVar3/Cars/bin/Debug/Cars.pdb
+/Users/ilya/Developer/HSE/EgzVar3/Cars/obj/Debug/Cars.csproj.CoreCompileInputs.cache
+/Users/ilya/Developer/HSE/EgzVar3/Cars/obj/Debug/Cars.dll
+/Users/ilya/Developer/HSE/EgzVar3/Cars/obj/Debug/Cars.pdb

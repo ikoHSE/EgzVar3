@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{0B9C0A48-3676-44DC-91A3-6F7B8F8A9779}|Default">
+  <MonoDevelop.Ide.ItemProperties.EgzVar3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cars/Cars.cs">
+    <Files>
+      <File FileName="EgzVar3/Program.cs" Line="10" Column="17" />
+      <File FileName="Cars/Cars.cs" Line="110" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
